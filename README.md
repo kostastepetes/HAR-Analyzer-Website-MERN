@@ -1,5 +1,5 @@
 # HAR-Analyzer MERN Stack
-MERN stack website (MongoDB + Express + React + NodeJS) that operates as a Crowdsourcing platform that allows its users to upload, analyze and process their HAR Files (HTTP Archives)
+MERN stack website (MongoDB + Express + React + NodeJS) that operates as a Crowdsourcing platform and allows its users to upload, analyze and process their HAR Files (HTTP Archives)
 
 After cloning:
 
